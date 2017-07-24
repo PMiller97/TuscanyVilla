@@ -1,0 +1,223 @@
+﻿/*NAVBAR*/
+.navbar-brand {
+    text-align:justify;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding-top:3px;
+}
+
+nav#navvy.navbar.navbar-right {
+    background-color:lightgray;
+    margin-bottom:0px;
+    font-family:'Montserrat', sans-serif;
+}
+
+#navvy a:hover {
+    color:#FFF6F0;
+    font-family:'Montserrat', sans-serif;
+    
+}
+
+.navbar {
+    position:relative;
+    min-height:50px;
+    margin-bottom:0px;
+}
+
+/*BEGGINNING IMAGES WITH TEXT INSIDE*/
+.image {
+    position:relative;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background-size: contain;
+    background-image: url('images/tuscany-villas-sant-anna (1).jpg');
+}
+
+#mainPhotoText { 
+   position:absolute;
+   top:25px; 
+   width:70%;
+   color:white;
+   text-align:center;
+   font-size:50px;
+}
+
+.text {
+   position:absolute;
+   top:100px; 
+   width:70%;
+   color:white;
+   text-align:center;
+   font-family:'Lemonada', cursive;
+}
+
+/*LOCATIONS*/
+#locations {
+    text-align:center;
+    background-color:gray;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+/*FIRST-LOCATION*/
+#loc1 {
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    padding-right:25px;
+    padding-left:50px;
+    padding-top:75px;
+}
+
+#locationOne {
+    font-size:28px;
+}
+
+/*SECOND-LOCATION*/
+#loc2 {
+    background-color:gray;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+#locationTwo {
+    font-size:28px;
+    color:white;
+}
+
+/*THIRD-LOCATION*/
+#loc3 {
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    padding-right:25px;
+    padding-left:50px;
+    padding-top:75px;
+}
+
+#locationThree {
+    font-size:28px;
+}
+
+/*AMMENITIES*/
+#ammenities {
+    text-align:center;
+    background-color:gray;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+/*3x3 GRID SECTION*/
+.checkOut {
+    margin:auto;
+}
+
+#textImage1 {
+    position: absolute;
+    left: 50px;
+    top: 175px; 
+    width:70%;
+    color:white;
+    text-align:center;
+    font-size:25px;
+    background-color:gray; /*have no idea how you guys got that transparent gray background!!*/
+    font-family: 'Montserrat', sans-serif; 
+}
+
+#textImage2 {
+    position: absolute;
+    left: 55px;
+    top: 175px; 
+    width:70%;
+    color:white;
+    text-align:center;
+    font-size:25px;
+    background-color:gray;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+#textImage3 {
+    position: absolute;
+    left: 50px;
+    top: 140px; 
+    width:70%;
+    color:white;
+    text-align:center;
+    font-size:25px;
+    background-color:gray;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+#textImage4 {
+    position: absolute;
+    left: 50px;
+    top: 140px; 
+    width:70%;
+    color:white;
+    text-align:center;
+    font-size:25px;
+    background-color:gray;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+#textImage5 {
+    position: absolute;
+    left: 50px;
+    top: 140px; 
+    width:70%;
+    color:white;
+    text-align:center;
+    font-size:25px;
+    background-color:gray;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+/*REVIEWS*/
+#reviews {
+    text-align:center;
+    background-color:gray;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+.loveIt {
+    font-family:'Lemonada', cursive;
+    text-align:center;
+}
+
+.user {
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.glyphicon glyphicon-chevron-left {
+    
+}
+
+/*CONTACT*/
+#contact {
+    text-align:center;
+    background-color:gray;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+/*ENDING*/
+#ending {
+    text-align:center;
+    background-color:gray;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+
+
+
